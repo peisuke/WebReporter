@@ -1,0 +1,3 @@
+[submodule "hyperboard"]
+	path = hyperboard
+	url = https://github.com/WarBean/hyperboard.git
