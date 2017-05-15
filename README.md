@@ -8,7 +8,7 @@ At first, it is nessesary to install [HyperBoard](https://github.com/WarBean/hyp
 
 Screenshot:
 
-![alt text](https://github.com/peisuke/WebReporter/blob/master/screenshot.jpg)
+<img src="https://github.com/peisuke/WebReporter/blob/master/screenshot.jpg" width="400">
 
 ## How to use
 
