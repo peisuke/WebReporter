@@ -1,10 +1,10 @@
 # WebReporter
 
-WebReporter is a browser based traning curves visualizer, which is extention for chainer. This extention uses [HyperBoard](https://github.com/WarBean/hyperboard.git). It helps you to train on a remote server and visualize training curves on the local browser in real-time. 
+WebReporter is a traning curves visualizer on your browser, which is extention for chainer. This extention uses [HyperBoard](https://github.com/WarBean/hyperboard.git). It helps you to train on a remote server and visualize training curves on the local browser in real-time. 
 
 ## Installation
 
-At first, it is nessesary to install [HyperBoard](https://github.com/WarBean/hyperboard.git). See the [link](https://github.com/WarBean/hyperboard/blob/463d1be007ad8b29de47765684d126efb47fb61a/README.md).
+At first, it is nessesary to install [Chainer](http://chainer.org/) and [HyperBoard](https://github.com/WarBean/hyperboard.git). See the [link](https://github.com/WarBean/hyperboard/blob/463d1be007ad8b29de47765684d126efb47fb61a/README.md).
 
 Screenshot:
 
